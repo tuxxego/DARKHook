@@ -8,3 +8,7 @@ It allows custom scripts to function in Darkscrolls 1.
 # What it can't do
 
 It's not a mod creation software.
+
+# Installation
+
+Put this in the main Darkscrolls folder.
